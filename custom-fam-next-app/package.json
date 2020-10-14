@@ -10,10 +10,11 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
+    "clsx": "latest",
     "next": "9.5.4",
+    "prop-types": "latest",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "prop-types": "latest",
-    "clsx": "latest"
+    "react-player": "^2.6.2"
   }
 }
